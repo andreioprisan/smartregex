@@ -1,0 +1,16 @@
+Here is my address:
+1 Main St 
+Boston, MA 02111 
+
+IP range: 1.2.3.4/20 
+Hex color: #ffffff 
+UK Phone: 0208 123 1234 
+International Phone: +31(0)235256677 
+
+IP: 1.2.3.4 
+IPv6: ::1 
+MAC address: 00:0a:95:9d:68:16 
+To: andrei@oprisan.com 
+From: support@apple.com 
+Subject: Appointment Dec 27th 2019 at 4:30PM 
+Body: Call us at 1(800)-555-4444x321 or email us at prize@apple.com to claim your $1,000,000.00 prize!
